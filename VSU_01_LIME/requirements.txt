@@ -1,0 +1,7 @@
+# Python 3.10
+# pip install -r requirements.txt
+lime
+numpy
+scikit-learn
+ipykernel
+ipython==7.*
