@@ -37,3 +37,7 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - Notebook: [VSU_01_INTRO_CZ.ipynb](VSU_01_INTRO_CZ.ipynb)
 - **deadline: 25.9.2025 7:59**
  
+### 2. Regrese analyticky
+- Notebook: [USU_02_LR_LSE_CZ.ipynb](USU_02_LR_LSE_CZ.ipynb)
+- Bonusová část: podúloha na exponenciální regresi
+- **deadline: 2.10.2025 7:59**
