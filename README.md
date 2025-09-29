@@ -41,3 +41,8 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - Notebook: [USU_02_LR_LSE_CZ.ipynb](USU_02_LR_LSE_CZ.ipynb)
 - Bonusová část: podúloha na exponenciální regresi
 - **deadline: 2.10.2025 7:59**
+
+### 3. Regrese numericky
+- Notebook: [03_LR_SGD_ADAM.ipynb](03_LR_SGD_ADAM.ipynb)
+- Bonusová část: metoda adam
+- **deadline: 9.10.2025 7:59**
