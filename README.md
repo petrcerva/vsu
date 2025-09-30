@@ -43,6 +43,6 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - **deadline: 2.10.2025 7:59**
 
 ### 3. Regrese numericky
-- Notebook: [03_LR_SGD_ADAM.ipynb](03_LR_SGD_ADAM.ipynb)
+- Notebook: [03_LR_GD_ADAM.ipynb](03_LR_GD_ADAM.ipynb)
 - Bonusová část: metoda adam
 - **deadline: 9.10.2025 7:59**
