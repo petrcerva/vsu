@@ -35,14 +35,14 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - Rychlý úvod [numpy.org](https://numpy.org/doc/stable/user/quickstart.html) až do začátku části "Splitting one array into several smaller ones". 
 - Rozdíly mezi Numpy a Matlabem [numpy.org](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 - Notebook: [VSU_01_INTRO_CZ.ipynb](VSU_01_INTRO_CZ.ipynb)
-- **deadline: 25.9.2025 7:59**
+- **deadline: 25.9.2025 na cvičení**
  
 ### 2. Regrese analyticky
 - Notebook: [USU_02_LR_LSE_CZ.ipynb](USU_02_LR_LSE_CZ.ipynb)
 - Bonusová část: podúloha na exponenciální regresi
-- **deadline: 2.10.2025 7:59**
+- **deadline: 2.10.2025 na cvičení**
 
 ### 3. Regrese numericky
 - Notebook: [03_LR_GD_ADAM.ipynb](03_LR_GD_ADAM.ipynb)
-- Bonusová část: metoda adam
-- **deadline: 9.10.2025 7:59**
+- Bonusová část: metoda ADAM
+- **deadline: 9.10.2025 na cvičení**
