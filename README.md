@@ -46,3 +46,17 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - Notebook: [03_LR_GD_ADAM.ipynb](03_LR_GD_ADAM.ipynb)
 - Bonusová část: metoda ADAM
 - **deadline: 9.10.2025 na cvičení**
+
+### 5. Binární logistická regrese
+- Notebook: [05_BLR.ipynb](05_BLR.ipynb)
+- **deadline: 6.11.2025 na cvičení**
+
+### 6. Regrese metodou MLE
+- Notebook: [06_MULTIPLE_LR_MLE.ipynb](06_MULTIPLE_LR_MLE.ipynb)
+- **deadline: 20.11.2025 na cvičení**
+
+### 7. Regrese metodou MLE
+- Notebook: [07_SOFTMAX.ipynb](07_SOFTMAX.ipynb)
+- **deadline: 27.11.2025 na cvičení**
+- Bonusová část za 2 body: rozpoznávání číslovek, minimální skóre 91 procent
+
