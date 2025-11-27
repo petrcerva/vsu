@@ -61,7 +61,16 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 - Bonusová část za 2 body: rozpoznávání číslovek, minimální skóre 91 procent
 
 ### 8. Učení neuronových sítí
-- Notebook: [08_NN.ipynb](07_NN.ipynb)
+- Notebook: [08_NN.ipynb](08_NN.ipynb)
 - **deadline: 4.12.2025 na cvičení**
 - Bonusová část za 2 body: rozpoznávání číslovek, minimální skóre 96 procent
+
+### 9. PCA
+- Notebook: [09-10_PCA_LDA_CZ.ipynb](09-10_PCA_LDA_CZ.ipynb)
+- **deadline: 11.12.2025 na cvičení**
+
+### 10. LDA
+- Notebook: [09-10_PCA_LDA_CZ.ipynb](09-10_PCA_LDA_CZ.ipynb)
+- **deadline: 18.12.2025 na cvičení**
+
 
