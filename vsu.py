@@ -216,10 +216,10 @@ def drawSoftmax(data, classes, theta=None, sigmoid=None, softmax=None, title='Da
     paths = []
 
     for idx in classes:
-        if isinstance(markers[int(idx)], mmarkers.MarkerStyle):
-            marker_obj = markers[int(idx)]
+        if isinstance(markers[int(idx[0])], mmarkers.MarkerStyle):
+            marker_obj = markers[int(idx[0])]
         else:
-            marker_obj = mmarkers.MarkerStyle(markers[int(idx)])
+            marker_obj = mmarkers.MarkerStyle(markers[int(idx[0])])
         path = marker_obj.get_path().transformed(marker_obj.get_transform())
         paths.append(path)
     sc.set_paths(paths)    

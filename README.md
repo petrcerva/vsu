@@ -40,37 +40,29 @@ Nejjednodušší cesta, jak vše zprovoznit na vlastním počítači s Windows 1
 ### 2. Regrese analyticky
 - Notebook: [USU_02_LR_LSE_CZ.ipynb](USU_02_LR_LSE_CZ.ipynb)
 - Bonusová část: podúloha na exponenciální regresi
-- **deadline: 2.10.2025 na cvičení**
 
 ### 3. Regrese numericky
 - Notebook: [03_LR_GD_ADAM.ipynb](03_LR_GD_ADAM.ipynb)
 - Bonusová část: metoda ADAM
-- **deadline: 9.10.2025 na cvičení**
 
 ### 5. Binární logistická regrese
 - Notebook: [05_BLR.ipynb](05_BLR.ipynb)
-- **deadline: 6.11.2025 na cvičení**
 
 ### 6. Regrese metodou MLE
 - Notebook: [06_MULTIPLE_LR_MLE.ipynb](06_MULTIPLE_LR_MLE.ipynb)
-- **deadline: 20.11.2025 na cvičení**
 
-### 7. Regrese metodou MLE
+### 7. Softmax
 - Notebook: [07_SOFTMAX.ipynb](07_SOFTMAX.ipynb)
-- **deadline: 27.11.2025 na cvičení**
 - Bonusová část za 2 body: rozpoznávání číslovek, minimální skóre 91 procent
 
 ### 8. Učení neuronových sítí
 - Notebook: [08_NN.ipynb](08_NN.ipynb)
-- **deadline: 4.12.2025 na cvičení**
 - Bonusová část za 2 body: rozpoznávání číslovek, minimální skóre 96 procent
 
 ### 9. PCA
 - Notebook: [09-10_PCA_LDA_CZ.ipynb](09-10_PCA_LDA_CZ.ipynb)
-- **deadline: 11.12.2025 na cvičení**
 
 ### 10. LDA
 - Notebook: [09-10_PCA_LDA_CZ.ipynb](09-10_PCA_LDA_CZ.ipynb)
-- **deadline: 18.12.2025 na cvičení**
 
 
